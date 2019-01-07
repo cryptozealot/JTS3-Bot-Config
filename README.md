@@ -1,2 +1,3 @@
-# JTS3-Bot-Config
-JTS3 Bot config file example
+# Config file of the JTS3ServerMod Bot
+
+Enabled Mods:RecordCheck, LastSeen, BadNicknameCheck, BadChannelNameCheck, WelcomeMessage, AutoMove, IdleCheck
