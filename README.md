@@ -13,6 +13,9 @@ For more info about the bot functionallity and to download it follow the link be
   
 https://forum.teamspeak.com/threads/51286-JTS3ServerMod-Multifunction-TS3-Server-Bot-(Idle-Record-Away-Mute-Welcome-)
   
-  
+
+### INSTALLLLL
+
+apt install openjdk-8-jre-headless
 
 tar -xzvf
