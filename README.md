@@ -15,3 +15,4 @@ https://forum.teamspeak.com/threads/51286-JTS3ServerMod-Multifunction-TS3-Server
   
   
 
+tar -xzvf
