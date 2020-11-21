@@ -1,4 +1,14 @@
 # Config file of the JTS3ServerMod Bot
+
+
+
+<p> YOU HAVE 2 TS3 DIRECTORIES. MAKE SURE TO USE CORRECT ONE IN TS INSTANCE TO ADD THIS BOT'S IP TO WHITE LIST
+<p> I Meean read this fucking line above please Himi!
+
+<p>
+<p> Did you read the line above ? It means you have to double check which whitelist file you are editing you lamer, that's why your bot is dropping out.
+
+
 <p>JTS3ServerMod_server.cfg
 <p>Enabled Mods: RecordCheck, LastSeen, BadNicknameCheck, BadChannelNameCheck, WelcomeMessage, AutoMove, IdleCheck, MuteMove, IdleMove
 
